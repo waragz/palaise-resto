@@ -1,0 +1,8 @@
+{
+  "name": "Remix Restaurant QR \u0026 Kitchen System",
+  "description": "Système complet de restaurant avec menu digital QR code, commandes clients, écran cuisine (KDS) en direct et panneau d\u0027administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
